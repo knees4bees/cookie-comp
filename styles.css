@@ -4,3 +4,7 @@
  cookie image is linked, but feel free to use your own if you want!
  (card) box-shadow: 0 19px 38px rgba(0,0,0,0.20), 0 15px 12px rgba(0,0,0,0.22);
 */
+body {
+  background: #ecf0f1;
+  font-family: 'Open Sans', sans-serif;
+}
